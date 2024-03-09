@@ -1,0 +1,50 @@
+fieldset
+{
+    width: 35%;
+    background:  rgb(66, 66, 66);
+    color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 12px black;
+    margin: 30%;
+    margin-top: 1%;
+    font-family: Lucida Calligraphy;
+    border-radius: 15px;
+}
+body
+{
+    background: rgb(77, 77, 77);
+}
+ h1
+ {
+    color: white;
+ }
+
+fieldset input
+{
+    box-shadow: 2px 2px 12px black;
+    border-radius: 4px;
+    background: rgb(228, 227, 227);
+    
+
+
+}
+fieldset  #submit
+{
+    background: rgb(0, 82, 0);
+    margin-left: 15%;
+    padding: 3px;
+    font-size: 1rem;
+    box-shadow: 2px 2px 12px black;
+
+
+
+} 
+fieldset  #reset
+{
+    background: rgb(114, 116, 0);
+    margin-left: 31%;
+    padding: 3px;
+
+    font-size: 1rem;
+
+}
+
